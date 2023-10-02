@@ -65,8 +65,3 @@ After compilation, you can run the simulation using:
 ```bash
 ./bin/monte_carlo_sim
 ```
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
