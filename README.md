@@ -35,8 +35,8 @@ The project has a modular structure as follows:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/mbm6448/MC_openMP.git
-    cd MC_openMP
+    git clone https://github.com/mbm6448/parallel_MCS_openMP.git
+    cd parallel_MCS_openMP
     ```
 
 
